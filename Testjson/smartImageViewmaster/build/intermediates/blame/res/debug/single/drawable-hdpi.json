@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_failure.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\src\\main\\res\\drawable-hdpi\\load_failure.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_default.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\src\\main\\res\\drawable-hdpi\\loading_default.png"
+    }
+]

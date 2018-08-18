@@ -1,0 +1,4 @@
+#Tue Jul 31 13:50:40 CST 2018
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d
+renamed.0=classes.dex
+file.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d\\classes.dex

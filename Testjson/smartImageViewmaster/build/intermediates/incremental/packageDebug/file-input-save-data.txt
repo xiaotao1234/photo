@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Jul 31 13:50:41 CST 2018
+2.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\loading_default.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3d233f81e56bc875d4ba3399f143d34ab7df0a81\\classes.dex
+5.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_087e43869897264901e436782bd679e9c811d603\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=DEX
+7.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3d233f81e56bc875d4ba3399f143d34ab7df0a81
+8.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\load_failure.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_087e43869897264901e436782bd679e9c811d603
+9.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Administrator\\AndroidStudioProjects\\Testjson\\smartImageViewmaster\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=DEX
